@@ -37,11 +37,10 @@
 ![화면 캡처 2025-06-19 151859](https://github.com/user-attachments/assets/4d27f559-0ba4-44f5-84b0-567489896cec)
 ![최종](https://github.com/user-attachments/assets/f81f3286-a9e8-45e6-ab83-b7bf22fb0258)
 
+### GIT FLOW 화면
+![화면 캡처 2025-06-19 152405](https://github.com/user-attachments/assets/b25f6fee-e773-4dbe-a0ea-a7aea35f678e)
 
+### 실행 결과
+![화면 캡처 2025-06-19 152302](https://github.com/user-attachments/assets/32a07890-5637-4bbe-8097-e997880a62b1)
+![화면 캡처 2025-06-19 152320](https://github.com/user-attachments/assets/85f7b4cc-5383-4e96-b28d-124da7688713)
 
-![스크린샷1](images/screenshot_1.png)
-![스크린샷1](images/screenshot_2.png)
-![스크린샷1](images/screenshot_3.png)
-![스크린샷1](images/screenshot_4.png)
-![스크린샷1](images/screenshot_5.png)
-![스크린샷1](images/screenshot_6.png)
