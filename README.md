@@ -1,14 +1,15 @@
 # 💻 calc – OSS 기반 프로젝트
 
 ## 📁 저장소
-[https://github.com/202407001/2025oss](https://github.com/202407001/2025oss)
+(https://github.com/202407038/2025oss)
 
 ## 👥 팀원 구성
 
 | 이름       | 역할                            |
 |------------|----------------------------------|
-| 홍길동     | 팀장 – dev/b 및 main 브랜치 수정 |
-| 김일원     | 팀원 – dev/a, dev/c 및 ReadMe.md 수정 |
+| 김규환 202407038 | 팀장 – dev/a 및 main 브랜치 수정 |
+| 박승연 202407049 | 팀원 – dev/b |
+| 송승규 202407047 | 팀원 – dev/c (닉네임과 학번이 일치하지 않음 = susuji5140) |
 
 ## 📌 프로젝트 개요
 
@@ -18,13 +19,14 @@
 
 ### 문제 해결 순서
 
-1. `main` 브랜치와 `dev/a` 브랜치 병합
-2. `main` 브랜치와 `dev/b` 병합 시 `calc/mul.h`에서 충돌 발생
-3. `dev/b`의 내용을 수정하고 fast-forward 병합 완료
-4. `dev/c` 브랜치 병합 시 충돌 발생
-5. rebase를 통해 충돌 해결 후 병합
-6. 정상 병합 확인 및 프로그램 실행
-7. `README.md` 최종 수정
+1. `main` 브랜치와 `dev/a` 브랜치 병합 시 `calc.cpp`, `add.cpp`, `sub.cpp` 에서 충돌 발생
+2. 각 브렌치 수정 내용에 맞게 수정 후 fast-forward 병합 완료
+3. `main` 브랜치와 `dev/b` 병합 시 `calc/mul.h`에서 충돌 발생
+4. `dev/b`의 내용을 수정하고 fast-forward 병합 완료
+5. `dev/c` 브랜치 병합 시 충돌 발생
+6. `dev/c`의 내용을 수정하고 fast-forward 병합 완료
+7. 정상 병합 확인 및 프로그램 실행
+8. `README.md` 최종 수정
 
 ![스크린샷1](images/screenshot_1.png)
 ![스크린샷1](images/screenshot_2.png)
