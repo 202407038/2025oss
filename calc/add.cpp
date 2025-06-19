@@ -1,8 +1,9 @@
+#include <iostream>
 #include "add.h"
 
 // add function modify for test
 int add(int x, int y)
 {
-	int res = x + y;
-	return res;
+	printf("x[ %d ]�� y[ %d ] ���� ���մϴ�. \n", x, y );
+	return x + y;
 }
